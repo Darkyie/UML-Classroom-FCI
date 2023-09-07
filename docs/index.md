@@ -28,6 +28,7 @@
 # Autores
 
 * Igor Benites Moura
+* João Pedro Maia Matulevicius Garcia
 
 
 # Descrição do projeto
