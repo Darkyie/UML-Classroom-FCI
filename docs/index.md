@@ -36,7 +36,18 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 *&lt;Introdução do projeto&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+**Requisitos Funcionais:**
+
+* Registro de faltas: O sistema deve permitir que os professores registrem as faltas dos alunos de forma fácil e intuitiva.
+* Relatórios de faltas: O sistema deve ser capaz de gerar relatórios de faltas agrupados por data, ano do ensino, turma, professor, disciplina ou aluno.
+* Notificações: O sistema deve ser capaz de enviar notificações por e-mail para os pais ou responsáveis em caso de faltas excessivas (quando a porcentagem de comparecimento às aulas dadas até o momento estiver abaixo de 80%).
+
+**Requisitos Não-Funcionais**
+
+* Acessibilidade: O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiências. Deve ter recursos de acessibilidade como tamanho de fonte ajustável.
+* Compatibilidade com navegadores web: O sistema deve ser compatível com todos os principais navegadores web e otimizado para dispositivos móveis.
+* Desempenho: O sistema deve ser capaz de lidar com o número de alunos e professores da escola sem atrasos perceptíveis na interface do usuário.
+* Segurança: O sistema deve seguir as melhores práticas de segurança para proteger os dados dos alunos.
 
 # Diagrama de casos de uso
 
