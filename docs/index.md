@@ -55,35 +55,37 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Descrição dos casos de uso
 
-**Caso de Uso: Registrar faltas**
+## **Caso de Uso: Registrar faltas**
 
-  Ator: Professor
-  Descrição: O professor seleciona a turma e a data através de uma interface. Em seguida, ele marca os alunos que estão ausentes. As informações são então salvas no sistema.
-
-
-
-**Caso de Uso: Visualizar relatórios de faltas**
-
-  Ator: Professor
-  Descrição: O professor pode visualizar relatórios de faltas para suas turmas. Ele pode filtrar os relatórios por data, disciplina ou aluno.
+Ator: Professor
+Descrição: O professor seleciona a turma e a data através de uma interface. Em seguida, ele marca os alunos que estão ausentes. As informações são então salvas no sistema.
 
 
 
-**Caso de Uso: Visualizar relatórios de faltas**
 
-  Ator: Administrador da escola
-  Descrição: O administrador pode visualizar relatórios de faltas para todas as turmas e alunos. Ele pode filtrar os relatórios por data, ano do ensino, turma, professor, disciplina ou aluno.
+## **Caso de Uso: Visualizar relatórios de faltas**
 
+Ator: Professor
+Descrição: O professor pode visualizar relatórios de faltas para suas turmas. Ele pode filtrar os relatórios por data, disciplina ou aluno.
 
-
-**Caso de Uso: Enviar notificações**
-
-  Ator: Administrador da escola
-  Descrição: O administrador pode enviar notificações por e-mail para os pais ou responsáveis quando a porcentagem de comparecimento às aulas estiver abaixo de 80%.
+ 
 
 
+## **Caso de Uso: Visualizar relatórios de faltas**
 
-**Caso de Uso: Receber notificações**
+Ator: Administrador da escola
+Descrição: O administrador pode visualizar relatórios de faltas para todas as turmas e alunos. Ele pode filtrar os relatórios por data, ano do ensino, turma, professor, disciplina ou aluno.
+
+
+
+## **Caso de Uso: Enviar notificações**
+
+Ator: Administrador da escola
+Descrição: O administrador pode enviar notificações por e-mail para os pais ou responsáveis quando a porcentagem de comparecimento às aulas estiver abaixo de 80%.
+
+
+
+## **Caso de Uso: Receber notificações**
 
   Ator: Pais ou responsáveis
   Descrição: Os pais ou responsáveis recebem notificações por e-mail em caso de faltas excessivas.
