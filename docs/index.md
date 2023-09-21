@@ -51,7 +51,8 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/8d347c9f-2bbf-4ffe-88e7-c822a30a9d1d)
+
 
 # Descrição dos casos de uso
 
