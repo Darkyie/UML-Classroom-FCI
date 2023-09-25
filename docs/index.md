@@ -100,7 +100,8 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 ## Caso de Uso: Enviar notificações
 ![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/5c2fb05d-8370-407f-82b2-d650e2709044)
 ## Caso de Uso: Receber notificações
-![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/15f3ae72-f04a-4401-ad9a-c0a39d2aa692)
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/4557fbf5-af4f-45ee-84c7-564b40fbbb9d)
+
 
 # Diagrama de classes
 
