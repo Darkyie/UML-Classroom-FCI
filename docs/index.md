@@ -93,6 +93,14 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 ## Diagrama de uso do caso: Registrar faltas
 ![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/595bff26-eb76-4cb5-8efa-99b555cf93d5)
 
+## Diagrama de uso do caso: Visualizar relatórios de faltas (Professor)
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/dc90d039-dd17-4f62-af2c-8d0f0888c0d9)
+## Diagrama de uso do caso: Visualizar relatórios de faltas (Administrador)
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/d7f27424-e38c-4990-8273-4da0088bced7)
+## Caso de Uso: Enviar notificações
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/5c2fb05d-8370-407f-82b2-d650e2709044)
+## Caso de Uso: Receber notificações
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/15f3ae72-f04a-4401-ad9a-c0a39d2aa692)
 
 # Diagrama de classes
 
