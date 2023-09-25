@@ -6,9 +6,6 @@
 <h1>Sistema de Presenças 8000</h1>
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -33,7 +30,7 @@
 
 # Descrição do projeto
 Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma escola do Ensino Fundamental, visando atender às necessidades dos gestores da escola. As informações incluem detalhes sobre as turmas, alunos, professores e o processo de registro de presenças e ausências, com um requisito de 75% de presença para evitar reprovação por faltas.
-*&lt;Introdução do projeto&gt;*
+
 
 # Análise de requisitos funcionais e não-funcionais
 **Requisitos Funcionais:**
