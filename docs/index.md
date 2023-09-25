@@ -90,8 +90,9 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 
 # Diagrama de sequencia
+## Diagrama de uso do caso: Registrar faltas
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/595bff26-eb76-4cb5-8efa-99b555cf93d5)
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de classes
 
