@@ -48,7 +48,7 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 * Compatibilidade com navegadores web: O sistema deve ser compatível com todos os principais navegadores web e otimizado para dispositivos móveis.
 * Desempenho: O sistema deve ser capaz de lidar com o número de alunos e professores da escola sem atrasos perceptíveis na interface do usuário.
 * Segurança: O sistema deve seguir as melhores práticas de segurança para proteger os dados dos alunos.
-
+* Simplicidade: O sistema deve ter um sistema de filtro por data, disciplina ou aluno, para facilitar ao professor em caso de busca.
 # Diagrama de casos de uso
 
 ![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/8d347c9f-2bbf-4ffe-88e7-c822a30a9d1d)
