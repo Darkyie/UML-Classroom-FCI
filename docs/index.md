@@ -37,15 +37,16 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 * Registro de faltas: O sistema deve permitir que os professores registrem as faltas dos alunos de forma fácil e intuitiva.
 * Relatórios de faltas: O sistema deve ser capaz de gerar relatórios de faltas agrupados por data, ano do ensino, turma, professor, disciplina ou aluno.
-* Notificações: O sistema deve ser capaz de enviar notificações por e-mail para os pais ou responsáveis em caso de faltas excessivas (quando a porcentagem de comparecimento às aulas dadas até o momento estiver abaixo de 80%).
+* Reprovação: Reprovar alunos que faltem em mais de 25% das aulas.
+* Notificações: O sistema deve ser capaz de enviar notificações por e-mail para os pais ou responsáveis em caso de faltas ou reprovações. (quando a porcentagem de comparecimento às aulas dadas até o momento estiver abaixo de 80%).
 
 **Requisitos Não-Funcionais**
 
 * Acessibilidade: O sistema deve ser acessível a todos os usuários, incluindo pessoas com deficiências. Deve ter recursos de acessibilidade como tamanho de fonte ajustável.
-* Compatibilidade com navegadores web: O sistema deve ser compatível com todos os principais navegadores web e otimizado para dispositivos móveis.
+* Compatibilidade com navegadores web: O sistema deve ser compatível com todos os principais navegadores web, incluindo navegadores para dispositivos móveis.
 * Desempenho: O sistema deve ser capaz de lidar com o número de alunos e professores da escola sem atrasos perceptíveis na interface do usuário.
-* Segurança: O sistema deve seguir as melhores práticas de segurança para proteger os dados dos alunos.
-* Simplicidade: O sistema deve ter um sistema de filtro por data, disciplina ou aluno, para facilitar ao professor em caso de busca.
+* Segurança: O sistema deve aderir às melhores práticas de segurança para proteger os dados dos alunos.
+* Facilidade de uso: O sistema deve ter um sistema de filtro por data, disciplina ou aluno, para facilitar ao professor em caso de busca.
   
 # **Diagrama de casos de uso**
 
