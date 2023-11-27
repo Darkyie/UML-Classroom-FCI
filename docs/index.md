@@ -109,7 +109,8 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/9a58dc87-e014-49cf-bd9a-4e8d14ebe729)
+
 
 # Decisões de arquitetura
 
