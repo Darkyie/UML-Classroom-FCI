@@ -104,7 +104,8 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/72b80d7f-47c7-490f-bcd0-724a6c67d17a)
+
 
 # Diagrama de Componentes
 
