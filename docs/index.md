@@ -114,7 +114,26 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+## **Arquitetura em Camadas:**
+<br>O sistema pode ser dividido em três camadas principais - a camada de apresentação (interface do usuário), a camada de negócios (lógica de negócios) e a camada de dados (banco de dados). Essa separação permite uma maior flexibilidade e facilita a manutenção e o desenvolvimento do sistema.
+
+## **Microserviços:**
+<br>Cada componente principal (Gerenciador de Faltas, Gerador de Relatórios, Notificador) pode ser implementado como um microserviço separado. Isso permite que cada componente seja desenvolvido, implantado e escalado de forma independente.
+
+## **Banco de Dados Relacional:**
+<br>Dado que o sistema precisa lidar com uma grande quantidade de dados relacionados (turmas, alunos, professores, presenças), um banco de dados relacional pode ser uma boa escolha. Ele permite consultas complexas e garante a integridade dos dados.
+
+## **Segurança:**
+<br>A segurança é uma consideração importante para o sistema. Portanto, é necessário implementar medidas de segurança adequadas, como criptografia de dados, autenticação de usuários e controle de acesso.
+
+## **Acessibilidade:**
+<br>O sistema deve ser acessível para todos os usuários, incluindo aqueles com deficiências. Portanto, a interface do usuário deve seguir as diretrizes de acessibilidade, como fornecer um tamanho de fonte ajustável e garantir um bom contraste de cores.
+
+## **Compatibilidade com Navegadores Web:**
+<br>O sistema deve ser compatível com todos os principais navegadores web. Portanto, é necessário testar o sistema em diferentes navegadores durante o desenvolvimento.
+
+## **Notificações por E-mail:**
+<br>Para enviar notificações por e-mail, pode ser necessário integrar o sistema com um serviço de e-mail. Isso pode ser feito usando uma API de e-mail.
 
 # Diagrama de implantação
 
