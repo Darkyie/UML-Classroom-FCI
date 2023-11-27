@@ -137,8 +137,12 @@ Nossa equipe é responsável por desenvolver um Sistema de Presenças para uma e
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/Darkyie/UML-Classroom-FCI/assets/88231773/a878dc14-8d78-4d40-971e-d3eb2551ecb8)
+
 
 # Referências
+* https://edisciplinas.usp.br/pluginfile.php/4543040/mod_resource/content/2/PCS%20Arquitetura%20de%20Sistemas%20-%20Referencias%20v020.pdf
+* https://www.devmedia.com.br/definicao-de-arquiteturas-de-referencia/33423
+* https://blog.gft.com/br/2019/09/24/a-importancia-da-arquitetura-de-referencia/
+* https://www.devmedia.com.br/arquitetura-de-software-desenvolvimento-orientado-para-arquitetura/8033
 
-*&lt;Lista de referências&gt;*
